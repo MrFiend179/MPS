@@ -1,5 +1,5 @@
 
-![ALT](https://www.flubel.tech/imagestohost/MPS.PNG)
+![ALT](https://www.flubel.com/imagestohost/MPS.PNG)
 # MPS 
 #### Minecraft Packet sender
 A meticulously crafted PHP solution designed for assessing the performance and resilience of Minecraft servers. This script is intended for responsible and ethical use in controlled testing environments to simulate connection scenarios and evaluate a server's handling capabilities.
